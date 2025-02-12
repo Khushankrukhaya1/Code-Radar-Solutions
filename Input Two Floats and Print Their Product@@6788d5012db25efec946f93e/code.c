@@ -2,7 +2,8 @@
 
 int main()
 {
-    float a,b,p;
+    float a,b;
+    int p;
     
     scanf("%.2f %.2f",&a,&b);
     p=a*b;
