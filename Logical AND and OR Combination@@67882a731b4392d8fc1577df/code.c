@@ -11,7 +11,7 @@ void main()
     }
     else if(a && b == 0)
     {
-        printf("True");
+        printf("False");
     }
 
     else
